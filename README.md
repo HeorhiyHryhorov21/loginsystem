@@ -1,7 +1,7 @@
 # PHP Login/Signup System
 
 # Installation
-- $ git clone https://github.com/therecluse26/PHP-Login.git
+- $ git clone https://github.com/HeorhiyHryhorov21/loginsystem.git
 
 Technologies used:
 ------------------
