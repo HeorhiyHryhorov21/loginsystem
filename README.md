@@ -1,4 +1,4 @@
-# Node/Express/Mongoose Todo-list App
+# PHP Login/Signup System
 
 # Getting started
 
@@ -8,11 +8,18 @@ To get the Node server running locally:
 - `npm install` to install all required dependencies
 - `node app.js` to start the local server
 
-## Dependencies
+Technologies used:
+------------------
+##### Prerequisites
 
-- [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
-- [mongoose](https://github.com/Automattic/mongoose) - For modeling and mapping MongoDB data to javascript 
-- [ejs](https://github.com/tj/ejs) - Embedded JavaScript templates
+- `PHP` *_required_*
+	- Minimum version: `7.0`
+	- `pdo_mysql` extension required
+	- Recommended to enable `shell_exec`
+
+- `MySQL` *_required_*
+	- Version `5.6+` recommended
+
 
 ## Application Structure
 
