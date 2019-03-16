@@ -1,12 +1,7 @@
 # PHP Login/Signup System
 
-# Getting started
-
-To get the Node server running locally:
-
-- Clone this repository
-- `npm install` to install all required dependencies
-- `node app.js` to start the local server
+# Installation
+- $ git clone https://github.com/therecluse26/PHP-Login.git
 
 Technologies used:
 ------------------
